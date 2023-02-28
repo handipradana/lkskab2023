@@ -34,7 +34,7 @@ The log folder contains files that have the function to display the MySQL  to th
 >DB_NAME=your name Database<br/>
 
 ## Command run application
->npm run prod
+>npm run start
 
 ## Run Log Application
 > Open browser and access your ip+port, ex: localhost:4000 //if you create EC2 instance and not use Load Balancer<br/>
