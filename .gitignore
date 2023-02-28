@@ -1,0 +1,4 @@
+./log/node_modules
+./log/.env
+./app/node_modules
+./app/.env
