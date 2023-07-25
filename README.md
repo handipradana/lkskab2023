@@ -1,5 +1,5 @@
-# lkskabbanyumas2023
-This is application for LKS Kab. Banyumas 2023
+# LKS 2023
+This is application for LKS 2023
 # Folder Log
 The log folder contains files that have the function to display the MQTT Log to the Web Application, in this Web Application configuration you must follow the following command:
 ## Install Dependencies
